@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1+9.png</file>
+        <file>images/cutdown.png</file>
+        <file>images/execicon.png</file>
+        <file>images/history.png</file>
+        <file>images/home.png</file>
+        <file>images/huawei.png</file>
+        <file>images/iphone.png</file>
+        <file>images/oppo.png</file>
+        <file>images/other.png</file>
+        <file>images/pad.png</file>
+        <file>images/refresh.png</file>
+        <file>images/SettingDevice.png</file>
+        <file>images/settings.png</file>
+        <file>images/USB.png</file>
+        <file>images/vivo.png</file>
+        <file>images/Wifi.png</file>
+        <file>images/xiaomi.png</file>
+        <file>images/background.jpg</file>
+        <file>images/pc.png</file>
+        <file>images/phone.png</file>
+        <file>images/run.png</file>
+    </qresource>
+</RCC>
